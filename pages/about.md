@@ -7,3 +7,5 @@ eleventyNavigation:
   order: 1
 ---
 About us content will go here
+
+![Students in classroom](/static/img/trainees-project_new.jpg "Trainees Project")
