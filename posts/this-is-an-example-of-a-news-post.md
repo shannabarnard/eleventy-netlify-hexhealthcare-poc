@@ -7,3 +7,7 @@ tags:
   - post
 ---
 This is the body of the post
+
+
+
+![](/static/img/trainees-project_new.jpg)
