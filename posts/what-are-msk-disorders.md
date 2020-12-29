@@ -1,6 +1,6 @@
 ---
-title: WHAT ARE MSK DISORDERS ?
-date: 2020-12-18T11:02:56.110Z
+title: WHAT ARE MSK DISORDERS?
+date: 2020-12-31T13:04:58.187Z
 author: Veronica Kocovska
 summary: Musculoskeletal (MSK) conditions affect the muscles, bones and joints,
   and usually manifest themselves as pain – chronic or acute – and issues with
@@ -21,6 +21,8 @@ The parts of the body most likely to be affected by MSK disorders are:
 * Lower back
 * Shoulders, forearms, wrists, hands, neck
 * Hips, legs, knees, ankles, feet
+
+![](/static/img/five-uses-of-machine-learning.jpg)
 
 ### Why they are a cause for concern
 
