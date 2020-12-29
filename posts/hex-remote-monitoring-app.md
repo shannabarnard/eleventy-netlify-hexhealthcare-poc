@@ -2,7 +2,7 @@
 title: Leading digital healthcare company HexTransforma Healthcare launches virtual monitoring system – Hex Remote Monitoring – for community benefit
 date: 2020-10-15
 tags:
-  - post
+  - blog
 ---
 
 Providing clinical virtual monitoring for the symptoms of Covid-19 and better protection for vulnerable people in care homes and the community through an efficient and easy-to-use application.
