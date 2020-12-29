@@ -1175,12 +1175,6 @@ h1 {
   text-transform: uppercase;
   font-style: normal;
 }
-@media (min-width: 52em) {
-  h1 {
-    line-height: 7rem;
-    font-size: 7rem;
-  }
-}
 
 h2 {
   font-size: 2.4rem;
@@ -1190,12 +1184,6 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
 }
-@media (min-width: 52em) {
-  h2 {
-    font-size: 4rem;
-    margin-bottom: 4rem;
-  }
-}
 
 h3 {
   font-size: 2.2rem;
@@ -1204,13 +1192,6 @@ h3 {
   line-height: 2.6rem;
   font-weight: 700;
 }
-@media (min-width: 52em) {
-  h3 {
-    margin: 0 0 3.2rem 0;
-    font-size: 2.7rem;
-    line-height: 3.3rem;
-  }
-}
 
 h4 {
   font-size: 1.8rem;
@@ -1218,12 +1199,6 @@ h4 {
   font-family: "roboto-slab", sans-serif;
   line-height: 2.4rem;
   font-weight: 300;
-}
-@media (min-width: 52em) {
-  h4 {
-    font-size: 2.2rem;
-    line-height: 1.45;
-  }
 }
 
 /**
