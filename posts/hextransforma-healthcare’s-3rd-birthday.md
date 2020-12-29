@@ -13,9 +13,7 @@ tags:
 ---
 ## HEXTRANSFORMA HEALTHCARE’S 3RD BIRTHDAY
 
-
-
-We are celebrating three years of HexTransforma Healthcare! It all started in December 2017 with two founders putting their heads together, and this became a springboard for growth, team expansion, and more varied and innovative services over the years. After the initial board meetings in early 2018 and the launch of Brit-Med later that year, we are now a 40-person strong team working on a range of exciting projects and research.
+We are celebrating three years of HexTransforma Healthcare! It all started in December 2017 with two founders putting their heads together, and this became a springboard for growth, team expansion, and more varied and innovative services over the years. A*fter the initial board meet*ings in early 2018 and the launch of Brit-Med later that year, we are now a 40-person strong team working on a range of exciting projects and research.
 
 ![](/static/img/third-birthday.jpg)
 
@@ -30,6 +28,8 @@ Earlier this year, HexTransforma Healthcare joined the East Sussex County Counci
 The EWWD Project was also launched this year as part of the Interreg FCE innovation programme. The main technology project’s purpose is to create wearable, AI-driven remote monitoring devices for people with MSK disorders and Diabetes. The two sub-projects – EWWD Academy and EWWD Med-Tech Challenge – aim to improve social mobility and generate career aspirations amongst young people from low socioeconomic backgrounds whilst helping to tackle the UK’s rising unemployment rates.
 
 Our hard-working and friendly Team has really grown and is also a cause for celebration! The members bring a wealth of experience from a variety of different backgrounds and are split into different divisions: Marketing & Communications, Data Science, Software Delivery, Project Management, and Administration, providing a strong framework for the launch of our new products in 2021.
+
+![alt tags](/static/img/five-uses-of-machine-learning.jpg "title")
 
 ### Where we are currently
 
