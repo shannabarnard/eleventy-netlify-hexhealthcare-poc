@@ -1,9 +1,3 @@
-:root {
-	--primary: blue;
-	--secondary: white;
-	--background: #F1F1F1;
-}
-
 *, *:before, *:after {
   box-sizing: border-box;
 }
@@ -19,7 +13,6 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
 }
 
 main {
