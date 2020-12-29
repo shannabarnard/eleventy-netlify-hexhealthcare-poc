@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en" class="min-h-full antialiased">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if meta_title %}{{ meta_title }}{% else %}{{ title }}{% endif %} | {{ site.name }}</title>
+    <meta name="description" content="{% if meta_description %}{{ meta_description }}{% else %}{{ excerpt }}{% endif %}">
+    <meta name="keywords" content="{% if meta_keywords %}{{ meta_keywords }}{% else %}{{ excerpt }}{% endif %}">
+
+    {% if page.fileSlug === 'blog' %}
+        <meta name="robots" content="noindex,follow" />
+    {% else %}
+        <meta name="robots" content="index,follow" />
+    {% endif %}
+
+    {# if your site's entire CSS comes in under 14kb, you may want to inline in the head #}
+    {# include main.css if in development mode #}
+    {% if helpers.environment === "development" %}
+        <link rel="stylesheet" href="/css/main.css">
+    {% else %}
+        {# else, use the minified css file for production #}
+        <link rel="stylesheet" href="/css/main.min.css">
+    {% endif %}
+
+    {# include social meta tags #}
+    {% include "components/social-meta.njk" %}
+
+    {# include static assets e.g. favicon, fonts etc #}
+    <link rel="icon" type="image/png" href="{{ site.images.favicon }}">
+
+    {# canonical #}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    {# Global site tag (gtag.js) - Google Analytics #}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175195731-4"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-175195731-4');
+    </script>
+
+    {# Facebook Pixel Code #}
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '189649179409752');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=189649179409752&ev=PageView&noscript=1"
+    /></noscript>
+    {# End Facebook Pixel Code #}
+</head>
+
+<body {% if body_class %} id="{{ body_class }}"{% endif %} class="loading">
+
+    <a class="skip hide" href="#main">Skip to content</a>
+
+    <main id="main">
+        <div class="wrapper" id="wrapper">
+        {# include header #}
+        {% include "components/header.njk" %}
+
+        {# include content #}
+        {{ content | safe }}
+
+        {# include footer #}
+        {% include "components/footer.njk" %}
+        </div>
+    </main>
+
+    {# include mobile nav #}
+    {% include "components/mobile-nav.njk" %}
+
+    {# include scripts #}
+    {% if helpers.environment === "development" %}
+        <script src="/js/main.js" defer></script>
+    {% else %}
+        <script src="/js/main.min.js" defer></script>
+    {% endif %}
+
+</body>
+</html>
