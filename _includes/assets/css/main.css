@@ -2662,3 +2662,7 @@ footer.footer .wrap-footer nav.nav ul li a {
 #privacy-policy h4 {
   color: #2F4858;
 }
+
+nav {
+  text-align: end;
+}
