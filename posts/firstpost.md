@@ -1,7 +1,8 @@
 ---
 title: The importance of Remote Monitoring during the Covid-19 pandemic
-date: 2020-11-30
+date: 2020-12-29T10:34:37.008Z
 author: Ieva Abromaite
+summary: test
 tags:
   - post
 ---
