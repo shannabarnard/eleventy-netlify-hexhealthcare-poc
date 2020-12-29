@@ -3,7 +3,7 @@ title: The importance of Remote Monitoring during the Covid-19 pandemic
 date: 2020-11-30
 author: Ieva Abromaite
 tags:
-    - blog
+  - blog
 ---
 
 The Covid-19 pandemic has changed the lives of billions of people and stretched healthcare systems around the world. The sector has had to evolve rapidly to cope with the influx of Covid-19 patients whilst still providing healthcare to the rest of the population in a safe way. Interest in virtual care has naturally skyrocketed and so has the need for the remote monitoring tools which help healthcare providers manage day-to-day requirements through the pandemic.

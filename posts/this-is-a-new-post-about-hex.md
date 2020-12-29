@@ -3,7 +3,7 @@ title: How AI is supporting healthcare systems during the Covid-19 pandemic
 date: 2020-12-08
 author: Veronica Kocovska
 tags:
-    - blog
+  - blog
 ---
 
 A monumental shift in the healthcare industry is currently underway. Artificial Intelligence is altering how information gets collected, analysed and developed for patient care. Its adoption by healthcare systems across the world has been driven by this year’s Covid-19 pandemic to relieve some of the burden and alleviate the towering workload faced by clinicians, and to provide patients with the most effective and best care. Whilst the pandemic has forced healthcare organisations to review and reassess how their systems and workforce provide care under such difficult circumstances, AI-driven systems have benefited doctors, patients and hospital administration in every aspect, from reducing operational costs to diagnosing diseases more efficiently to engaging with patients under social distancing measures.
