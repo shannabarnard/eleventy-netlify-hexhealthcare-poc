@@ -1,9 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: News
 date: 2017-01-01
 permalink: /blog/index.html
 eleventyNavigation:
   key: Blog
-  order: 6
+  order: 4
 ---
