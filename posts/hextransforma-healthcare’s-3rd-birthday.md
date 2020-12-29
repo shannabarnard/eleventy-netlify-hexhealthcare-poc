@@ -13,9 +13,11 @@ tags:
 ---
 ## HEXTRANSFORMA HEALTHCARE’S 3RD BIRTHDAY
 
-### Intro
+
 
 We are celebrating three years of HexTransforma Healthcare! It all started in December 2017 with two founders putting their heads together, and this became a springboard for growth, team expansion, and more varied and innovative services over the years. After the initial board meetings in early 2018 and the launch of Brit-Med later that year, we are now a 40-person strong team working on a range of exciting projects and research.
+
+![](/static/img/third-birthday.jpg)
 
 ### Things to celebrate: what we’ve achieved so far
 
