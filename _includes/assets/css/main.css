@@ -1096,7 +1096,6 @@ template {
 
 .display-none{ display:none !important }
 
-@charset "UTF-8";
 html {
   font-size: calc(1em * .625);
   font-family: "open-sans", sans-serif;
